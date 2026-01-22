@@ -1,0 +1,1 @@
+Dự án sử dụng Next.js App Router. Luôn sử dụng @/components/ui cho giao diện. Mọi chức năng mới phải có Unit Test
